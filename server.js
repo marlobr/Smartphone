@@ -1,3 +1,5 @@
+## Desenvolvido por -- WWhite.
+
 "use strict";
 
 var oP = require("events");
